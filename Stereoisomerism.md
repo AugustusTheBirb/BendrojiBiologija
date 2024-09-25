@@ -1,0 +1,3 @@
+- **Stereoisomers** 
+	- Groups above or below the ring - R/S configuration
+	- Enantiomers - mirror images - **all** stereocenters have opposite configurations

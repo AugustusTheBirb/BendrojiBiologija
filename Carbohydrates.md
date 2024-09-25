@@ -1,0 +1,42 @@
+- C<sub>n</sub>(H<sub>2</sub>O)<sub>n</sub>
+- All have [stereoisomers](Stereoisomerism.md) 
+- ### Monosaccharides
+	- Usually 5 or 6 carbons
+	- Pentozės – ribozė (C<sub>5</sub>H<sub>10</sub>O<sub>5</sub>), deoksiribozė (C<sub>5</sub>H<sub>10</sub>O<sub>4</sub>)
+	- Heksozės – gliukozė (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)
+	- Can be linear or cyclic
+- ### Disaccharides
+	- Made of two monosaccharides (wow)
+	- Made during dehydration or condensation "glikozidinis ryšys"
+	- Dissolve via hydrolysis
+- ### Polysaccharides
+	- Many monomers linked together
+	- Used for: energy storage (starch), structural stability (cellulose, chitin) 
+- ### Lipids
+	- Non-polar
+	- Mostly C and H (boring)
+	- **Phospholipids**
+		- Glycerol, two fatty acids and a phosphate group
+		- ![Pasted image 20240913122406.png](Images/Pasted image 20240913122406.png)
+		- These make up lipid bilayers (dvisluoksnė membrana)
+- ### Fats
+	- Triglycerides
+	- Very energy dense - 
+	- Glycerol + 3 fatty acids
+	- Created with dehydration or condensation
+	- Breaks down via hydrolysis
+	- ![Pasted image 20240913115747.png](Images/Pasted image 20240913115747.png)
+	- #### **Fatty acids**
+		- Saturated
+			- Solid at room temp.
+		- Unsaturated
+			- Usually cis
+			- Usually liquid at room temp
+			- trans are created during a synthetic process - a certain bond???
+- ### Steroids
+	- Four fused rings
+	- slightly soluble in water
+	- Small differences in structure lead to large variations in effect
+	- ![Pasted image 20240913122847.png](Images/Pasted image 20240913122847.png)
+- ### [[Proteins]]
+	
